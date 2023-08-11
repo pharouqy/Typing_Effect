@@ -1,0 +1,17 @@
+body {
+  margin: 0 auto;
+  max-width: 1440px;
+  min-height: 100vh;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+main {
+  background-color: #121212;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #6B9AFF;
+  font-size: 2.5rem;
+}
